@@ -8,6 +8,7 @@
   -- B. Be the change. Know what's needed and how to get it on schedule and with the fewest resources.
   -- C. Become a Generalist instead of a Specialist so you can work on the Entire System, instead of parts of systems. Generalization is why Generals are called Generals.     
   -- D. Deliver Results instead of Activities. Understand that the Best Results come from New Ethical Beliefs supported by New Actuating Events and are things people expect to be able to use at a cost as far below value as possible.
+  -- E. This is where E would go.
 3.   Use our Character to maintain Reliable Relationships. 
   -- A. Listen first to understand the other person's Beliefs so you can Exchange In Abundance with them.
   -- B. Operate from Shared Beliefs with all Collaborators.  Tell the truth and demonstrate integrity so there's no need to Spin, Posture or Manipulate. 
