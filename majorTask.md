@@ -4,7 +4,7 @@
 ## Conditions
 1. Use Buy Beliefs instead of Sell Beliefs, to accomplish this Major Task.
 2. Use Perfect Cold Calls to actuate Buy Beliefs.
-3. Before recruiting someone as a Major Task Collaborator, get their Understanding And Acceptance, that the purpose of a Perfect Cold Call is to Purchase Wants And Needs from Qualified People to get above Immediate Category Demand.
+3. Before recruiting someone as a Major Task Collaborator and spouse, if necessary, get their Understanding And Acceptance, that the purpose of a Perfect Cold Call is to Purchase Wants And Needs from Qualified People to get above Immediate Category Demand.
 4. Get additional Understanding And Acceptance, from potential Major Task Collaborators, that Perfect Cold Calls use Same Room Face To Face Communication to get Reliable Prospecting Results.
 5. Use initial Reliable Prospecting Results to create Perfect Cold Calls.
 6. If needed, use Perfect Cold Calls to expand Category Demand in order to lay foundation for co-ownership of a Completely New Channel Of Distribution, for Major Task Collaborators.

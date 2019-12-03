@@ -1,34 +1,32 @@
 # Platform Outline
 ## Master Task 
-1. Coordinate Major Tasks and Minor Tasks into a seamless single Flow designed to satisfy all local human ethical needs.
+1. Create the Beliefs that automatically fulfill all Local Ethical Human Needs in a Single Seamless Flow.
 ## Conditions
-1. Start with Self Trust.
-2. Extend trust to all work.
-3. Understand And Accept that results come from beliefs not through actions.
-4. Chief among our beliefs is the Flow Of Work depends on trust.  
-5. Develop responsibility based on commitment to beliefs.
-6. Understand that authority can be delegated and responsibility cannot be delegated.
-7. Know that it is impossible to improve something by improving part of it unless improving a part automatically improves the whole. 
-8. Maintain Beliefs for improving products and services.
-9. Focus on those Beliefs.
-10. Stop depending on inspection to achieve quality.
-11. Minimize Total Cost by working with a single Line of Communication.
-12. Eliminate task duplication.
-13. Improve constantly and forever every process for production, planning and service.
-14. Institute On The Job Learning.
-15. Treat the ability to code as a literacy not as a skill.
-16. Produce consensus through Version Control.   
-17. Adopt and institute Leadership.
-18. Develop leadership around networks instead of hierarchies.
-19. Maintain Openness in all issues.  The more openness in a job, the more trust everyone will have with each other. 
-20. Eliminate secrets.
-21. Drive out fear.
-22. Develop Generalist Knowledge instead of Specialist Knowledge.
-23. Eliminate slogans, targets and exhortations.
-24. Eliminate number quotas and goals.
-25. Remove barriers that rob people of their Pride In Their Work.
-26. Eliminate annual ratings and merit systems.
-27. Build all Major Tasks and Minor Tasks around a from and a to, that includes a deadline. 
-28. Create New Certainties that automatically keep everyone on task.
+1. Only Collaborate on projects with Monopolist Characteristics that will Stay Above Immediate Demand. 
+2. All Collaborators must be have a Core of Credibility.  Collaborators must trust themselves:
+  -- A. Have integrity. Apply and improve their Character all the time.
+  -- B. Be the change. Know what's needed and how to get it on schedule and with the fewest resources.
+  -- C. Become a Generalist instead of a Specialist so you can work on the Entire System, instead of parts of systems. Generalization is why Generals are called Generals.     
+  -- D. Deliver Results instead of Activities. Understand that the Best Results come from New Ethical Beliefs supported by New Actuating Events and are things people expect to be able to use at a cost as far below value as possible.
+  -- E. This is where E would go.
+3.   Use our Character to maintain Reliable Relationships. 
+  -- A. Listen first to understand the other person's Beliefs so you can Exchange In Abundance with them.
+  -- B. Operate from Shared Beliefs with all Collaborators.  Tell the truth and demonstrate integrity so there's no need to Spin, Posture or Manipulate. 
+  -- C. Insist on Transparency in all work to make it hard for Hidden Agendas, Hidden Meanings and Hidden Objectives to survive.
+  -- D. Make sure everyone gets meaningfully recognized for their work.  **Always** give credit to others ***before*** accepting credit for yourself.  Be loyal to the absent. 
+  -- E. Drive out fear.  Promote Completely Safe Environments.  Safety is a better motivator for creativity, than fear. 
+  -- F. Show Respect for Others through work on projects that produce more than enough for everyone that participates 
+  -- G. Right wrongs through Acts of Creation.  When you bring attention to someone else's mistake, **always** participate in their Creative Action to fix their mistake. When you make a mistake, **always** get help with your Creative Action to fix your mistake, preferably from the person that brought your mistake to your attention. Nobody gets into trouble by themselves or should try to get out of trouble by themselves.  That's basic Systems Thinking.
+4. Invest in our Competence.
+    -- Treat Coding as a literacy instead of a skill. 
+    -- Focus on what's needed to get Results through Version Control.
+  -- Maintain Situational Awareness through Version Control.
+  -- Account for what's actually happening through Version Control.
+  -- Improve quality constantly and forever through Version Control.
+  -- Keep your commitments.
+5.  Extend Credibility, Character and Competence.
+  -- To the organization.
+  -- To buyers and providers.
+  -- To society.
 ## Standard
-1.  Grow profits faster than revenue.
+1.  Grow profits faster than sales.
