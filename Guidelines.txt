@@ -56,19 +56,24 @@
 
 11. Usage:  Split Gross Profit.  Gross Profit equals Cost of Work minus Cost of Workers. 
    1. Qualifications to Split Gross Profit: 
-      1. Only Co-owners can Split Gross Profit.
+      1. Commit to earn Total Category Demand with available resources and expertise.
+      2. Pick a Category.
          1. Gross Profit Splits must be made at Category Level.
-            1. Only one group of Co-owners per Category is allowed.
-            2. A Category must a have a at least 50 Users within any 3 digit ZIP to qualify as a Category.  
-      2. Be available as a Worker on a bid basis 
-      3. Pick a side.  
+         2. A Category is any group of Co-Owners, Users and Workers united in production and consumption. 
+         3. A Category must be large enough sustain the expectations of Co-owners, Users and Full Time Workers, at a Living Wage, long enough to compel Co-owners, Users and Workers to iterate Their Category into what's next.  
+         4. Only one group of Co-owners per Category is allowed.
+      3. Become a Category Co-owner.
+         1. Potential Co-owners resolve the conflict of interest that exists between receiving Worker Income and Co-Owner Income in favor of Co-owner Income.
+               1. Co-owners work on their Category not in it.
+      4. Be available to Work, as a Temporary Category Worker, on a bid basis. 
+      5. Pick a side.  
          1. Supply
             1. Includes responsibility for all Provider Production Variables and resulting data including:
                1. Features of what's produced.
                2. Unique Valuable Benefits, from the use of what's produced, that can earn Total Category Demand.
-                  * Unique Valuable Benefits do not Including Unique Worker Characteristics.
+                  1. Unique Valuable Benefits do not Including Unique Worker Characteristics.
                3. All liability from the production and use what's produced.
-                  * Not including liability from the presentation of what's produced by Cost Reporters to Users.
+                  1. Not including liability from the presentation of what's produced by Cost Reporters to Users.
                4. Enough production to fulfill Demand Flow and earn Total Category Demand. 
          2. Demand
             1. Includes responsibility for all Demand Production Variables and resulting data including:
@@ -76,7 +81,7 @@
                2. Development of an Alternate Brand if needed, to earn Total Category Demand.
                3. Liability from the presentation of what's produced by Cost Reporters to Users.
                4. Enough Demand Flow to earn Total Category Demand.
-      4. Normalize Costs.
+      6. Normalize Costs.
          1. 15 Cost Normalizers: Direct Labor, Direct Materials, Non Negotiable Overhead, Convertible Overhead, Maintenance and Amortization, Switching Costs, Data, Analysis and Application and Improvement using data, Learning, Recruiting, Gross Profit, Legacy Costs, Networking Costs, Capacity and Utilization Contingencies, Pay Equalization. 
             1. Normalization is the conversion of all costs into actual costs to produce billable work. 
             2. Agreement for periodically updating Normalized Costs and the Normalized Cost List will be part of the Initial Cost Normalization Process. 
@@ -89,16 +94,16 @@
             4. All work must be awarded on a bid basis.
                1. Co-owners must go through the bid process to Work.
             5. Work must be priced in a way to minimize the possibility that a job, or group of jobs, can have an Independent Favorable Effect.
-            6. Workers must be Cross trained, so no Worker can have an Independent Negative Effect. 
+            6. Workers must be Crosstrained, so no Worker can have an Independent Negative Effect. 
          3. All Workers and Co-owners can question any Cost Normalizing Decision, for any reason,  as often as needed.
             1. The record of these questions and answers will be kept in a Version Controlled Repository.
-      5. Become a Business Generalist
+      7. Become a Business Generalist
          1. Must Co-own a Recognized Category.
          2. Know the Business of What Workers Do In Category, Supply Side and Demand Side, in a Recognized Category.
          3. Be competent in all jobs within a selected Recognized Category, Supply Side and Demand Side.
          4. Be available to work in any Recognized Category Job when necessary.
-      6. Be able to substitute Code for Managers at Near Zero Cost. 
-      7. Co-owners must work at least 16 hours a year based on their bid to do work in their category.
+      8. Be able to substitute Code for Managers at Near Zero Cost. 
+      9. Co-owners must work at least 16 hours a year based on their bid to do work in their category.
          1. At least 8 hours Supply Side.
          2. At least 8 hours Demand Side. 
    2. Gross Profit Splits for on Business to Users Transactions: 
@@ -130,13 +135,13 @@
             2. Gross Profit Splits should be paid evenly.
             3. Exceptions for uneven Gross Profit Splits:
                1. When Co-owners need information that one of the Co-owners can provide for an increased share of Gross Profit.
-                  * The Additional Gross Profit Share will be temporary.
-                  * Cost of the Additional Gross Profit Share will be shared evenly by all other Co-owners not doing not providing the information. 
-                  * All Co-owners must agree to the Temporary Distribution of Gross Profit.
-                  * Agreement must specify the Effective Dates for the Temporary Distribution of Gross Profit.
-                  * Expected Results, in exchange the Temporary Distribution of Gross Profit, must be documented.
-                  * Deadline for Expected Results must be documented. 
-                  * Contingency for one deadline extension must be documented. 
+                  1. The Additional Gross Profit Share will be temporary.
+                  2. Cost of the Additional Gross Profit Share will be shared evenly by all other Co-owners not doing not providing the information. 
+                  3. All Co-owners must agree to the Temporary Distribution of Gross Profit.
+                  4. Agreement must specify the Effective Dates for the Temporary Distribution of Gross Profit.
+                  5. Expected Results, in exchange the Temporary Distribution of Gross Profit, must be documented.
+                  6. Deadline for Expected Results must be documented. 
+                  7. Contingency for one deadline extension must be documented. 
       5. All work and results from work become property of  Co-Owners when the Temporary Distribution of Gross Profit expires.
       6. All work and results of work become property of Co-Owners when Deadline for Expected Results or the Contingency Deadline for Expected Results expires, depending on which deadline is successfully completed first.
       7. All work in progress and results from work in progress become property of Co-Owners no later than when the Business to Business Provider decides they can't meet the Deadline for Expected Results or the Contingency Deadline for Expected Results
